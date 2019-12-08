@@ -1,0 +1,1 @@
+This is the first Odin Project's assignment that is helping me develop step-by-step knowledge on how to set my project up starting with GitHub. From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
